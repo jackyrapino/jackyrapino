@@ -14,8 +14,7 @@ https://marquezjacqueline.com.ar/
 
 <img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api?username=jackyrapino&theme=blue-green"/> 
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=jackyrapino&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
