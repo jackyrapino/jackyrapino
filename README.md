@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hello world 👋
 
-<!--
-**jackyrapino/jackyrapino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif" width="350px" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Jacqueline Marquez 
+### Portfolio: 
+https://marquezjacqueline.com.ar/
+
+## Stats Git Hub:
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackyrapino&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="jackyrapino" />
+
+<img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api?username=jackyrapino&theme=blue-green"/> 
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=jackyrapino&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="40px" height="40px"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40px" height="40px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain.svg" width="40px" height="40px"/> 
+</p>
+
